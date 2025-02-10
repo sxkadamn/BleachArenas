@@ -15,7 +15,7 @@ Before compiling BAuction, ensure you have the following prerequisites installed
    ```
    Execute this operation for the following versions: 1.17.1, 1.18.2, 1.19.4, 1.20.1, 1.20.2, 1.20.4.
 
-## Compiling BAuction
+## Compiling BleachArenas
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/sxkadamn/BleachArenas.git
@@ -32,7 +32,7 @@ Before compiling BAuction, ensure you have the following prerequisites installed
    ```
 
 ## Usage
-After successfully compiling BAuction, you can use the generated JAR file in your Spigot server plugin directory.
+After successfully compiling BleachArenas, you can use the generated JAR file in your Spigot server plugin directory.
 
 ## Contributing
 Feel free to contribute to the development of BAuction by submitting issues or pull requests.
