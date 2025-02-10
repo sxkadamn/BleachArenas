@@ -2,7 +2,7 @@
 
 ## Prerequisites
 Before compiling BAuction, ensure you have the following prerequisites installed on your system:
-- JDK 16
+- JDK 18
 - Maven
 - BuildTools
 
