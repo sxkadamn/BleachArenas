@@ -38,7 +38,7 @@ After successfully compiling BleachArenas, you can use the generated JAR file in
 Feel free to contribute to the development of BleachArenas by submitting issues or pull requests.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Mozilla Public License 2.0 ](LICENSE).
 
 ## bStats
 [![](https://bstats.org/signatures/bukkit/BleachArenas.svg)](https://bstats.org/plugin/bukkit/BleachArenas)
