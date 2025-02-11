@@ -35,7 +35,7 @@ Before compiling BAuction, ensure you have the following prerequisites installed
 After successfully compiling BleachArenas, you can use the generated JAR file in your Spigot server plugin directory.
 
 ## Contributing
-Feel free to contribute to the development of BAuction by submitting issues or pull requests.
+Feel free to contribute to the development of BleachArenas by submitting issues or pull requests.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
